@@ -2,6 +2,10 @@
 
 # Project-008 : Movie App 
 
+## Project Link
+
+Project page can be seen via this link-->  https://firebase-react-movie-app.netlify.app/
+
 ## Description
 
 Project aims to create a Movie App.
